@@ -1,0 +1,38 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+
+
+# MLflow runs
+mlruns/
+runs/
+
+data/
+outputs/
+Bases/
+
+
+# Model files
+*.pth
+*.pkl
+*.sd
+*.pt
+
+# Logs and outputs
+**/logs/*.log
+**/logs/*.txt
+
+# Build artifacts
+*.o
+*.out
+*.exe
+*.pdf
+*full.csv
+
+# OS files
+.DS_Store
+Thumbs.db
