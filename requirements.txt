@@ -1,0 +1,12 @@
+jupyter
+numpy
+matplotlib
+tensorflow
+torch
+torchvision
+tqdm
+diffusers
+transformers
+datasets
+accelerate
+safetensors
