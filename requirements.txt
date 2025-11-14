@@ -9,5 +9,7 @@ tqdm
 diffusers
 transformers
 datasets
+evaluate
+scikit-learn
 accelerate
 safetensors
